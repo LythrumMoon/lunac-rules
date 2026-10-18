@@ -1,0 +1,1146 @@
+{
+  "rsp": 1,
+  "generatedAt": "2026-10-18T10:28:37.583Z",
+  "entries": [
+    {
+      "id": "venera.mh4399",
+      "name": "4399漫画网",
+      "upstream": "venera",
+      "upstreamId": "mh4399",
+      "version": "1.0.3",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/mh4399.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manga51",
+      "name": "51漫画",
+      "upstream": "venera",
+      "upstreamId": "manga51",
+      "version": "1.2.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manga51.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.7sefun",
+      "name": "7sefun",
+      "upstream": "kazumi",
+      "upstreamId": "7sefun",
+      "version": "1.3",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/7sefun.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.ikmmh_v2",
+      "name": "爱看漫",
+      "upstream": "venera",
+      "upstreamId": "ikmmh_v2",
+      "version": "3.0.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/ikmmh_v2.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.baihehui",
+      "name": "百合会",
+      "upstream": "venera",
+      "upstreamId": "baihehui",
+      "version": "1.0.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/baihehui.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.baozi",
+      "name": "包子漫画",
+      "upstream": "venera",
+      "upstreamId": "baozi",
+      "version": "1.1.6",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/baozi.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.bilimanga",
+      "name": "嗶哩漫畫",
+      "upstream": "venera",
+      "upstreamId": "bilimanga",
+      "version": "1.1.7",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/bilimanga.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.dongmanmanhua",
+      "name": "咚漫",
+      "upstream": "venera",
+      "upstreamId": "dongmanmanhua",
+      "version": "1.0.6",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/dongmanmanhua.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.dongman_la",
+      "name": "动漫啦",
+      "upstream": "venera",
+      "upstreamId": "dongman_la",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/dongman_la_fixed_v101.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.dm5",
+      "name": "动漫屋",
+      "upstream": "venera",
+      "upstreamId": "dm5",
+      "version": "7.0.3",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/dm5.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.ffppt",
+      "name": "飞翔漫画",
+      "upstream": "venera",
+      "upstreamId": "ffppt",
+      "version": "1.0.3",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/ffppt.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.gfmhapp",
+      "name": "古风漫画",
+      "upstream": "venera",
+      "upstreamId": "GfmhApp",
+      "version": "1.3.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/gfmh.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.guazimanhua",
+      "name": "瓜子漫画",
+      "upstream": "venera",
+      "upstreamId": "guazimanhua",
+      "version": "1.0.4",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/guazi_manhua_v1.1.0.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.copy_manga",
+      "name": "拷贝漫画",
+      "upstream": "venera",
+      "upstreamId": "copy_manga",
+      "version": "1.6.6",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/copy_manga.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.laimanhua_split",
+      "name": "来漫画（分流）",
+      "upstream": "venera",
+      "upstreamId": "laimanhua_split",
+      "version": "1.2.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/laimanhua_split_hosts_v1.2.1_configurable.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manhuagui",
+      "name": "漫画柜",
+      "upstream": "venera",
+      "upstreamId": "ManHuaGui",
+      "version": "1.2.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manhuagui.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manhuaren",
+      "name": "漫画人",
+      "upstream": "venera",
+      "upstreamId": "manhuaren",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manhuaren.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manwaba",
+      "name": "漫蛙吧",
+      "upstream": "venera",
+      "upstreamId": "manwaba",
+      "version": "1.1.3",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manwaba_fixed_v113.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manwang",
+      "name": "漫网",
+      "upstream": "venera",
+      "upstreamId": "manwang",
+      "version": "1.2.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manwang_fixed_v120.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.rumanhua_fixed_v15",
+      "name": "如漫画",
+      "upstream": "venera",
+      "upstreamId": "rumanhua_fixed_v15",
+      "version": "1.2.8",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/rumanhua_fixed_v16.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.shonen_jump_plus",
+      "name": "少年ジャンプ＋",
+      "upstream": "venera",
+      "upstreamId": "shonen_jump_plus",
+      "version": "1.1.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/shonen_jump_plus.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.qq_comic_official_v1",
+      "name": "腾讯动漫（正版）",
+      "upstream": "venera",
+      "upstreamId": "qq_comic_official_v1",
+      "version": "1.0.3",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/tencent_comic_official.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.tuku_cc",
+      "name": "图库漫画",
+      "upstream": "venera",
+      "upstreamId": "tuku_cc",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/tuku_cc.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.hipmh",
+      "name": "嬉皮漫畫",
+      "upstream": "venera",
+      "upstreamId": "hipmh",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/hipmh.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manhuauo_banana_v2",
+      "name": "香蕉漫画",
+      "upstream": "venera",
+      "upstreamId": "manhuauo_banana_v2",
+      "version": "1.0.3",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manhuauo_fixed_v2.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.ykmh",
+      "name": "优酷漫画 (修复版)",
+      "upstream": "venera",
+      "upstreamId": "ykmh",
+      "version": "1.0.7",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/youku.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.zaimanhua",
+      "name": "再漫画",
+      "upstream": "venera",
+      "upstreamId": "zaimanhua",
+      "version": "1.0.2",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/zaimanhua.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.aafun",
+      "name": "aafun",
+      "upstream": "kazumi",
+      "upstreamId": "aafun",
+      "version": "1.2",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/aafun.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.age",
+      "name": "AGE",
+      "upstream": "kazumi",
+      "upstreamId": "AGE",
+      "version": "1.5",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/AGE.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.akianime",
+      "name": "akianime",
+      "upstream": "kazumi",
+      "upstreamId": "akianime",
+      "version": "1.4",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/akianime.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.baimao",
+      "name": "baimao",
+      "upstream": "kazumi",
+      "upstreamId": "baimao",
+      "version": "1.0",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/baimao.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.ccc",
+      "name": "CCC追漫台",
+      "upstream": "venera",
+      "upstreamId": "ccc",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/ccc.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.comick",
+      "name": "comick",
+      "upstream": "venera",
+      "upstreamId": "comick",
+      "version": "1.2.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/comick.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.dalvdm",
+      "name": "dalvdm",
+      "upstream": "kazumi",
+      "upstreamId": "dalvdm",
+      "version": "1.2",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/dalvdm.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.dm84",
+      "name": "DM84",
+      "upstream": "kazumi",
+      "upstreamId": "DM84",
+      "version": "1.4",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/DM84.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.ezdmw",
+      "name": "ezdmw",
+      "upstream": "kazumi",
+      "upstreamId": "ezdmw",
+      "version": "1.2",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/ezdmw.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.girigirilove",
+      "name": "giriGiriLove",
+      "upstream": "kazumi",
+      "upstreamId": "giriGiriLove",
+      "version": "2.5",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/giriGiriLove.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.goda",
+      "name": "GoDa漫画",
+      "upstream": "venera",
+      "upstreamId": "goda",
+      "version": "1.2.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/goda.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.komiic",
+      "name": "Komiic",
+      "upstream": "venera",
+      "upstreamId": "Komiic",
+      "version": "1.0.8",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/komiic_dual.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.webtoons_zh_hant",
+      "name": "LINE WEBTOON",
+      "upstream": "venera",
+      "upstreamId": "webtoons_zh_hant",
+      "version": "1.0.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/webtoons_zh_hant.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.lmm",
+      "name": "LMM",
+      "upstream": "kazumi",
+      "upstreamId": "LMM",
+      "version": "2.3",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/LMM.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.mangabz",
+      "name": "Mangabz",
+      "upstream": "venera",
+      "upstreamId": "mangabz",
+      "version": "1.0.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/mangabz.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.manga_dex",
+      "name": "MangaDex",
+      "upstream": "venera",
+      "upstreamId": "manga_dex",
+      "version": "1.1.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/manga_dex.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.mgnacg",
+      "name": "mgnacg",
+      "upstream": "kazumi",
+      "upstreamId": "mgnacg",
+      "version": "1.2",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/mgnacg.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.mojoin_v2",
+      "name": "MOJOIN",
+      "upstream": "venera",
+      "upstreamId": "mojoin_v2",
+      "version": "1.0.7",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/mojoin_fixed_v107.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.moonci",
+      "name": "moonci",
+      "upstream": "kazumi",
+      "upstreamId": "moonci",
+      "version": "1.0",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/moonci.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.mutefun",
+      "name": "mutefun",
+      "upstream": "kazumi",
+      "upstreamId": "mutefun",
+      "version": "1.4",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/mutefun.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.mxdm",
+      "name": "MXdm",
+      "upstream": "kazumi",
+      "upstreamId": "MXdm",
+      "version": "2.4",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/MXdm.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.mycomic",
+      "name": "MYCOMIC",
+      "upstream": "venera",
+      "upstreamId": "mycomic",
+      "version": "1.1.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/mycomic.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.noymanga",
+      "name": "NoyManga",
+      "upstream": "venera",
+      "upstreamId": "noymanga",
+      "version": "1.1.5",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/noymanga.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "demo.gutendex",
+      "name": "Project Gutenberg（演示）",
+      "upstream": "manual",
+      "upstreamId": "demo.gutendex",
+      "version": "1.0.0",
+      "kind": [
+        "novel"
+      ],
+      "engine": "declarative",
+      "homepage": "https://gutendex.com",
+      "license": "Public Domain (Project Gutenberg)",
+      "attribution": "数据来自 Gutendex / Project Gutenberg；仅使用公版作品摘要",
+      "warnings": [
+        "本仓库自建演示来源；规则内嵌，可直接安装"
+      ],
+      "source": {
+        "manifest": {
+          "rsp": 1,
+          "id": "demo.gutendex",
+          "name": "Project Gutenberg（演示）",
+          "version": "1.0.0",
+          "kind": [
+            "novel"
+          ],
+          "engine": "declarative",
+          "entry": "rule.json",
+          "baseUrl": "https://gutendex.com",
+          "homepage": "https://gutendex.com",
+          "license": "Public Domain (Project Gutenberg)",
+          "attribution": "数据来自 Gutendex / Project Gutenberg；仅使用公版作品摘要",
+          "capabilities": [
+            "search",
+            "chapters",
+            "content"
+          ],
+          "rateLimit": {
+            "rps": 2,
+            "burst": 3
+          }
+        },
+        "rule": {
+          "search": {
+            "request": {
+              "method": "GET",
+              "url": "/books/",
+              "query": {
+                "search": "@keyword",
+                "page": "@page"
+              }
+            },
+            "list": {
+              "jsonPath": "$.results[*]"
+            },
+            "fields": {
+              "id": {
+                "selector": {
+                  "jsonPath": "id"
+                },
+                "template": "https://gutendex.com/books/@value/"
+              },
+              "title": {
+                "selector": {
+                  "jsonPath": "title"
+                }
+              },
+              "author": {
+                "selector": {
+                  "jsonPath": "authors[0].name"
+                }
+              },
+              "cover": {
+                "selector": {
+                  "jsonPath": "formats['image/jpeg']"
+                }
+              },
+              "description": {
+                "selector": {
+                  "jsonPath": "summaries[0]"
+                }
+              },
+              "tags": {
+                "selector": {
+                  "jsonPath": "subjects[0]"
+                }
+              }
+            }
+          },
+          "chapters": {
+            "request": {
+              "method": "GET",
+              "url": "@workUrl"
+            },
+            "list": {
+              "jsonPath": "$"
+            },
+            "fields": {
+              "id": {
+                "selector": {
+                  "jsonPath": "id"
+                },
+                "template": "https://gutendex.com/books/@value/"
+              },
+              "title": {
+                "selector": {
+                  "jsonPath": "title"
+                },
+                "template": "作品摘要 · @value"
+              }
+            }
+          },
+          "content": {
+            "request": {
+              "method": "GET",
+              "url": "@chapterUrl"
+            },
+            "list": {
+              "jsonPath": "$"
+            },
+            "fields": {
+              "content": {
+                "selector": {
+                  "jsonPath": "summaries[0]"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "venera.rawkuma",
+      "name": "Rawkuma",
+      "upstream": "venera",
+      "upstreamId": "rawkuma",
+      "version": "1.1.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/rawkuma.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.sfacg_manhua",
+      "name": "SF漫画",
+      "upstream": "venera",
+      "upstreamId": "sfacg_manhua",
+      "version": "1.0.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/sfacg_manhua.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.sorani",
+      "name": "sorani",
+      "upstream": "kazumi",
+      "upstreamId": "sorani",
+      "version": "1.0",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/sorani.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.wmanhua",
+      "name": "W漫画",
+      "upstream": "venera",
+      "upstreamId": "wmanhua",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/wmanhua.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "kazumi.xfdmneo",
+      "name": "xfdmneo",
+      "upstream": "kazumi",
+      "upstreamId": "xfdmneo",
+      "version": "1.1",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/xfdmneo.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "kazumi.xfdmnext",
+      "name": "xfdmnext",
+      "upstream": "kazumi",
+      "upstreamId": "xfdmnext",
+      "version": "1.1",
+      "kind": [
+        "anime"
+      ],
+      "engine": "declarative",
+      "sourceUrl": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/xfdmnext.json",
+      "homepage": "https://raw.githubusercontent.com/Predidit/KazumiRules/main/",
+      "license": "MIT",
+      "attribution": "KazumiRules (MIT)",
+      "warnings": []
+    },
+    {
+      "id": "venera.zerobyw33",
+      "name": "zero搬运网",
+      "upstream": "venera",
+      "upstreamId": "zerobyw33",
+      "version": "1.2.0",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/zerobyw33.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    },
+    {
+      "id": "venera.comic_walker",
+      "name": "カドコミ",
+      "upstream": "venera",
+      "upstreamId": "comic_walker",
+      "version": "1.0.1",
+      "kind": [
+        "comic"
+      ],
+      "engine": "js",
+      "sourceUrl": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/comic_walker.js",
+      "homepage": "https://raw.githubusercontent.com/handahao666-boop/venera_comic_source/main/",
+      "attribution": "Venera comic sources",
+      "warnings": [
+        "Venera 源为 JS 脚本；v1 只登记地址，不复制内容",
+        "单个源脚本的许可以上游文件为准"
+      ]
+    }
+  ]
+}
